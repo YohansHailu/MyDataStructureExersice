@@ -1,3 +1,4 @@
+//implimentation of singley linked list
 class node
 {
     public:
